@@ -67,7 +67,6 @@ body {
 .header-nav-list {
   list-style: none;
   display: flex;
-  gap: 40px;
 }
 
 .header-nav-list,
